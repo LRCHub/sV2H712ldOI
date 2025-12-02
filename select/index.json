@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "Confessions of a Rotten Girl",
+  "base_artist": "SAWTOWNE",
+  "createdAt": "2025-12-02T15:19:44.336334Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Confessions of a Rotten Girl",
+      "artist": "SAWTOWNE",
+      "has_synced": false,
+      "path": "select/01_Confessions_of_a_Rotten_Girl_SAWTOWNE.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Confessions of a Rotten Girl",
+      "artist": "SAWTOWNE",
+      "has_synced": true,
+      "path": "select/02_Confessions_of_a_Rotten_Girl_SAWTOWNE.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "SAWTOWNE - Confessions of a Rotten Girl ft. Hatsune Miku",
+      "artist": "SAWTOWNE",
+      "has_synced": true,
+      "path": "select/03_SAWTOWNE_-_Confessions_of_a_Rotten_Girl_ft._Hatsune_Miku_SAWTOWNE.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "SAWTOWNE - Confessions of a Rotten Girl ft. Hatsune Miku",
+      "artist": "SAWTOWNE",
+      "has_synced": false,
+      "path": "select/04_SAWTOWNE_-_Confessions_of_a_Rotten_Girl_ft._Hatsune_Miku_SAWTOWNE.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "SAWTOWNE - Confessions of a Rotten Girl / ft. Hatsune Miku",
+      "artist": "SAWTOWNE",
+      "has_synced": false,
+      "path": "select/05_SAWTOWNE_-_Confessions_of_a_Rotten_Girl___ft._Hatsune_Miku_SAWTOWNE.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Confessions of a Rotten Girl",
+      "artist": "SAWTOWNE; 初音ミク",
+      "has_synced": false,
+      "path": "select/06_Confessions_of_a_Rotten_Girl_SAWTOWNE;_初音ミク.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "SAWTOWNE - Confessions of a Rotten Girl / ft. Hatsune Miku",
+      "artist": "SAWTOWNE",
+      "has_synced": false,
+      "path": "select/07_SAWTOWNE_-_Confessions_of_a_Rotten_Girl___ft._Hatsune_Miku_SAWTOWNE.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "SAWTOWNE - Confessions of a Rotten Girl / ft. Hatsune Miku",
+      "artist": "SAWTOWNE",
+      "has_synced": true,
+      "path": "select/08_SAWTOWNE_-_Confessions_of_a_Rotten_Girl___ft._Hatsune_Miku_SAWTOWNE.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Confessions of a Rotten Girl (Paused)",
+      "artist": "SAWTOWNE",
+      "has_synced": true,
+      "path": "select/09_Confessions_of_a_Rotten_Girl_(Paused)_SAWTOWNE.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Confessions of a Rotten Girl",
+      "artist": "SAWTOWNE, SAWTOWNE",
+      "has_synced": true,
+      "path": "select/10_Confessions_of_a_Rotten_Girl_SAWTOWNE,_SAWTOWNE.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Confessions of a Rotten Girl (Off Vocal)",
+      "artist": "SAWTOWNE",
+      "has_synced": false,
+      "path": "select/11_Confessions_of_a_Rotten_Girl_(Off_Vocal)_SAWTOWNE.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Confessions of a Rotten Girl",
+      "artist": "SAWTOWNE ft. 初音ミク",
+      "has_synced": true,
+      "path": "select/12_Confessions_of_a_Rotten_Girl_SAWTOWNE_ft._初音ミク.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Confessions of a Rotten Girl",
+      "artist": "SAWTOWNE",
+      "has_synced": false,
+      "path": "select/pl_01_Confessions_of_a_Rotten_Girl_SAWTOWNE.txt"
+    }
+  ]
+}
